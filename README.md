@@ -25,7 +25,7 @@
 
 <hr />
 
-## ✨ Features
+## Features
 
 - 🧠 **AI-Powered Insights**: Smart resume parsing and job matching leveraging AI.
 - 🏢 **Company & Job Management**: Robust portals for companies to manage postings and applicants.
@@ -36,7 +36,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 Hirezy is built on a robust **Microservices Architecture** ensuring scalability, fault tolerance, and separation of concerns.
 
@@ -52,7 +52,7 @@ Hirezy is built on a robust **Microservices Architecture** ensuring scalability,
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
@@ -70,7 +70,7 @@ Hirezy is built on a robust **Microservices Architecture** ensuring scalability,
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 📋 Prerequisites
 Make sure you have the following installed:
@@ -112,7 +112,7 @@ Navigate to `http://localhost:5173` in your browser to see the application!
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
