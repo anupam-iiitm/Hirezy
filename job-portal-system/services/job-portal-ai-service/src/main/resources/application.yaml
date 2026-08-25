@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: job-portal-ai-service
+  config:
+    import: optional:configserver:http://localhost:8888
+
+
+gemini:
+  api:
+    key: AIzaSyBcrBGmyAHU8ghZSn_1yLwFkpRaGyUqNUo
+    model: gemini-3-flash-preview
+    max-output-tokens: 2048
+    temperature: 0.7
